@@ -1,6 +1,6 @@
 # ID2010
 
-#### This is the lab of course Software Engineering of Distributed Systems at KTH.
+#### This is the lab of course Programming of Interactive Systems at KTH.
 
 - LAB1 Chat-Service
 
